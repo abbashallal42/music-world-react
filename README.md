@@ -1,12 +1,12 @@
-Music World React Project
+## Music World React Project
 
-Project Description
+## Project Description
 
 Music World is a React-based music store website. The website allows users to browse musical instruments, view product details, filter instruments, and navigate between different pages such as Home, Shop, Filter, Cart, About, and Contact.
 
 The project was developed as Phase 2 of the web project using React.js and JavaScript. It improves the previous website by using React components, routing, reusable product cards, and organized styling files.
 
-Technologies Used
+## Technologies Used
 
 - React.js
 - JavaScript
@@ -16,7 +16,7 @@ Technologies Used
 - Git
 - GitHub
 
-Main Features
+## Main Features
 
 - Home page
 - Navigation bar
@@ -27,7 +27,7 @@ Main Features
 - Contact page
 - Responsive design
 
-Setup Instructions
+## Setup Instructions
 
 To run this project on your computer:
 
@@ -46,32 +46,37 @@ npm start
 
 http://localhost:3000
 
-Screenshots
+## Screenshots
 
-Home Page
+## Home Page
 
-"Home Page" (screenshots/home.png)
+!["Home Page"](ScreenShots/HomePage.png)
 
-Shop Page
+## Shop Page
 
-"Shop Page" (screenshots/shop.png)
+!["Shop Page"](ScreenShots/ShopPage.png)
 
-Filter Page
+## Filter Page
 
-"Filter Page" (screenshots/filter.png)
+!["Filter Page"](ScreenShots/FilterPage.png)
 
-Product Details Page
+## Contact Page
 
-"Product Details Page" (screenshots/details.png)
+!["Contact Page"](ScreenShots/ContactPage.png)
 
-Contact Page
+## About Page
 
-"Contact Page" (screenshots/contact.png)
+!["About Page"](ScreenShots/AboutPage.png)
 
-Author
+## Cart Page
 
-Prepared by: Abbas Hallal-42330193 & Abbas Hamdan
+!["Cart Page"](ScreenShots/CartPage.png)
 
-Course
+## Author
+
+Prepared by: Abbas Hallal - 42330193
+Prepared by: Abbas Hamdan - 42330111
+
+## Course
 
 CSCI390 - Spring 2025-2026
